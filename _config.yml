@@ -7,7 +7,7 @@
 
 # Site Setting
 title                    : "Shen Dong"
-description              : "I am a second-year Ph.D. student at Michigan State University, co-advised by Prof. Jiliang Tang and Prof. Hui Liu. Prior to this, I received my bachelor’s degree from the School of Mathematics at the University of Science and Technology of China (USTC). My research interests lie in AI Agents and Trustworthy AI, and I am devoted to developing intelligent agent systems that are both capable and reliable."
+description              : "Michigan State University"
 repository               : "dsh3n77/dsh3n77.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Shen Dong"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Michigan State University"
+  bio              : "PhD Student in Computer Science"
   location         : "East Lansing, Michigan"
   employer         :
   pubmed           : 
