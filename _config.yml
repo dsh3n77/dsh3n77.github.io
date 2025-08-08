@@ -5,9 +5,9 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-# Site Settings
-title                    : "Lorem ipsum"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+# Site Setting
+title                    : "Shen Dong"
+description              : "I am a second-year Ph.D. student at Michigan State University, co-advised by Prof. Jiliang Tang and Prof. Hui Liu. Prior to this, I received my bachelor’s degree from the School of Mathematics at the University of Science and Technology of China (USTC). My research interests lie in AI Agents and Trustworthy AI, and I am devoted to developing intelligent agent systems that are both capable and reliable."
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Lorem ipsum"
+  name             : "Shen Dong"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
-  location         : "Beijing, China"
+  bio              : "Michigan State University"
+  location         : "East Lansing, Michigan"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "Lorem@ipsum.com"
+  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=yjY-oTEAAAAJ"
+  email            : "dongshe1@msu.edu"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
