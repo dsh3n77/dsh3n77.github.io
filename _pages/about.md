@@ -24,7 +24,7 @@ If you would like to explore potential collaborations or are interested in relat
 # 📝 Publications 
 
 - [A Practical Memory Injection Attack Against LLM Agents](https://arxiv.org/abs/2503.03704)  
-  ***S Dong**, *S Xu, P He, Y Li, J Tang, T Liu, H Liu, Z Xiang; Preprint 2025
+  ***S Dong**, *S Xu, P He, Y Li, J Tang, T Liu, H Liu, Z Xiang; Neurips 2025 (Poster)
 
 - [Comprehensive Vulnerability Analysis is Necessary for Trustworthy LLM-MAS](https://arxiv.org/abs/2506.01245)  
   P He, Y Xing, **S Dong**, J Li, Z Dai, X Tang, H Liu, H Xu, Z Xiang, ...; Preprint 2025
