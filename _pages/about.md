@@ -21,16 +21,19 @@ I am a second-year Ph.D. student at Michigan State University, co-advised by Pro
 
 If you would like to explore potential collaborations or are interested in related research, feel free to get in touch 😊！
 
-# 📝 Publications 
-
-- [A Practical Memory Injection Attack Against LLM Agents](https://arxiv.org/abs/2503.03704)  
-  ***S Dong**, *S Xu, P He, Y Li, J Tang, T Liu, H Liu, Z Xiang; **NeurIPS 2025 (Poster)**
-
+# Preprints
 - [Comprehensive Vulnerability Analysis is Necessary for Trustworthy LLM-MAS](https://arxiv.org/abs/2506.01245)  
   P He, Y Xing, **S Dong**, J Li, Z Dai, X Tang, H Liu, H Xu, Z Xiang, ...; Preprint 2025
 
-- [Red-teaming LLM Multi-Agent Systems via Communication Attacks](https://arxiv.org/abs/2502.14847)  
-  P He, Y Lin, **S Dong**, H Xu, Y Xing, H Liu; **ACL Findings 2025**
+# 📝 Publications 
+
+- [A Practical Memory Injection Attack Against LLM Agents](https://arxiv.org/abs/2503.03704)
+  **NeurIPS 2025 (Poster)**
+  ***S Dong**, *S Xu, P He, Y Li, J Tang, T Liu, H Liu, Z Xiang; 
+
+- [Red-teaming LLM Multi-Agent Systems via Communication Attacks](https://arxiv.org/abs/2502.14847)
+  **ACL Findings 2025**
+  P He, Y Lin, **S Dong**, H Xu, Y Xing, H Liu; 
 
 # 📖 Educations
 - *2024.08 - (now)*, Michigan State University, CSE, Ph.D. 
