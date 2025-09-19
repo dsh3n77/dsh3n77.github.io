@@ -21,12 +21,12 @@ I am a second-year Ph.D. student at Michigan State University, co-advised by Pro
 
 If you would like to explore potential collaborations or are interested in related research, feel free to get in touch 😊！
 
-# Preprints
+# 📝 Preprints
 - [Comprehensive Vulnerability Analysis is Necessary for Trustworthy LLM-MAS](https://arxiv.org/abs/2506.01245)  
 
   P He, Y Xing, **S Dong**, J Li, Z Dai, X Tang, H Liu, H Xu, Z Xiang, ...; Preprint 2025
 
-# 📝 Publications 
+# 📖 Publications 
 
 - [A Practical Memory Injection Attack Against LLM Agents](https://arxiv.org/abs/2503.03704)
 
@@ -40,7 +40,7 @@ If you would like to explore potential collaborations or are interested in relat
 
   P He, Y Lin, **S Dong**, H Xu, Y Xing, H Liu; 
 
-# 📖 Educations
+# 🏫 Educations
 - *2024.08 - (now)*, Michigan State University, CSE, Ph.D. 
 - *2020.09 - 2024.06*, University of Science and Technology of China, Mathematics, Bachelor. 
 
