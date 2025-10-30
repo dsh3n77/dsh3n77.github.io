@@ -17,7 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a second-year Ph.D. student at Michigan State University, co-advised by Prof. Jiliang Tang and Prof. Hui Liu. Prior to this, I received my bachelor’s degree from University of Science and Technology of China (USTC), School of Mathematics. I study Agentic and Trustworthy AI, and am devoted to developing intelligent agent systems that are both capable and reliable.
+I am a second-year Ph.D. student at Michigan State University, co-advised by Prof. Jiliang Tang and Prof. Hui Liu. Prior to this, I received my bachelor’s degree from University of Science and Technology of China (USTC), School of Mathematics.
+
+I study Agentic and Trustworthy AI, and am devoted to developing intelligent agent systems that are both capable and reliable.
 
 # 📝 Preprints
 - [Comprehensive Vulnerability Analysis is Necessary for Trustworthy LLM-MAS](https://arxiv.org/abs/2506.01245)  
