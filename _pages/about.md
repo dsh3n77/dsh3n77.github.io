@@ -36,6 +36,7 @@ I study Agentic and Trustworthy AI. I am devoted to developing intelligent agent
   ***S Dong**, *S Xu, P He, Y Li, J Tang, T Liu, H Liu, Z Xiang;
   
 - [PEAR: Planner-Executor Agent Robustness Benchmark](https://arxiv.org/abs/2510.07505)
+  
   _EACL Findings 2026_
 
   ***S Dong**, *M Zhag, *P He, L Ma, B Thuraisingham, H Liu, Y Xing;
