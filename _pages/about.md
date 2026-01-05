@@ -22,9 +22,6 @@ I am a second-year Ph.D. student at Michigan State University, co-advised by Pro
 I study Agentic and Trustworthy AI. I am devoted to developing intelligent agent systems that are both capable and reliable.
 
 # 📝 Preprints
-- [PEAR: Planner-Executor Agent Robustness Benchmark](https://arxiv.org/abs/2510.07505)
-
-  ***S Dong**, *M Zhag, *P He, L Ma, B Thuraisingham, H Liu, Y Xing;
 
 - [Comprehensive Vulnerability Analysis is Necessary for Trustworthy LLM-MAS](https://arxiv.org/abs/2506.01245)  
 
@@ -36,7 +33,12 @@ I study Agentic and Trustworthy AI. I am devoted to developing intelligent agent
 
   _NeurIPS 2025_
   
-  ***S Dong**, *S Xu, P He, Y Li, J Tang, T Liu, H Liu, Z Xiang; 
+  ***S Dong**, *S Xu, P He, Y Li, J Tang, T Liu, H Liu, Z Xiang;
+  
+- [PEAR: Planner-Executor Agent Robustness Benchmark](https://arxiv.org/abs/2510.07505)
+  _EACL Findings 2026_
+
+  ***S Dong**, *M Zhag, *P He, L Ma, B Thuraisingham, H Liu, Y Xing;
 
 - [Red-teaming LLM Multi-Agent Systems via Communication Attacks](https://arxiv.org/abs/2502.14847)
 
