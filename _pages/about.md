@@ -49,9 +49,7 @@ I study Agentic and Trustworthy AI. I am devoted to developing intelligent agent
 
 # 🤖 Service
 
-- ICLR 2026 Webshop MemAgent
-
-  _Reviewer_
+- ICLR 2026 Webshop MemAgent, _Reviewer_
 
 # 🏫 Educations
 - *2024.08 - (now)*, Michigan State University, CSE, Ph.D. 
