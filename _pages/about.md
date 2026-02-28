@@ -29,7 +29,7 @@ I study Agentic and Trustworthy AI. I am devoted to developing intelligent agent
 
 # 📖 Publications 
 
-- [A Practical Memory Injection Attack Against LLM Agents](https://arxiv.org/abs/2503.03704)
+- [Memory Injection Attacks on LLM Agents via Query-Only Interaction](https://arxiv.org/abs/2503.03704)
 
   _NeurIPS 2025_
   
