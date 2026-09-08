@@ -1,11 +1,8 @@
 ---
-title:          "Convallis a cras semper auctor neque vitae rutrum quisque non tellus orci ac"
-date:           2024-05-12 00:01:00 +0800
+title:          "Memory Injection Attacks on LLM Agents via Query-Only Interaction"
+date:           2025-05-12 00:01:00 +0800
 selected:       true
 pub:            "Neural Information Processing Systems (NeurIPS)"
-# pub_pre:        "Submitted to "
-# pub_post:       'Under review.'
-# pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
 pub_date:       "2025"
 abstract: >-
           Agents powered by large language models (LLMs) have demonstrated strong
@@ -26,7 +23,7 @@ abstract: >-
         Our extensive experiments across diverse agents demonstrate the effectiveness of
         MINJA in compromising agent memory. With minimal requirements for execution,
         MINJA enables any user to influence agent memory, highlighting the risk. 
-cover:          /assets/images/covers/MINJA.jpg
+cover:/assets/images/covers/MINJA.jpg
 authors:
   - Shen Dong*
   - Shaochen Xu*
