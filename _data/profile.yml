@@ -37,11 +37,13 @@ education:
   logo: /assets/images/badges/msu_logo.png
   position: >- 
     Department of Computer Science <br/>
-    Ph.D. Student
+    Ph.D.
   date: Sep. 2024 - present
 - name: University of Science and Technology of China
   logo: /assets/images/badges/ustc_logo.png
-  position: B.S. in Information and Computation Science, School of Mathematics.
+  position: >-
+     Information and Computation Science, School of Mathematics.<br/>
+     B.S.
   date: Sep. 2020 - Jun. 2024
 
 # experience:
