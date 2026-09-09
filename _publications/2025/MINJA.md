@@ -8,7 +8,7 @@ pub_date: "2025"
 cover: /assets/images/covers/MINJA.png
 
 authors:
-  - Shen Dong*
+  - "<strong>Shen Dong</strong>"*
   - Shaochen Xu*
   - Pengfei He
   - Yige Li
