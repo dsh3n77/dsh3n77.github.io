@@ -2,10 +2,13 @@ primary_name: "Shen Dong"
 secondary_name: ""
 navbar_name: "Welcome!"
 
+# positions:
+# - name: Ph.D. in Computer Science
+# - name: Michigan State University
+#   logo: /assets/images/badges/msu_logo.png  # Logo is optional
 positions:
-- name: Ph.D. in Computer Science
-- name: Michigan State University
-  logo: /assets/images/badges/msu_logo.png  # Logo is optional
+- name: Ph.D. in Computer Science @ MSU
+  logo: /assets/images/badges/msu_logo.png
 
 
 email: "dongshe1@msu.edu"
