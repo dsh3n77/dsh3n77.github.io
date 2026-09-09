@@ -5,7 +5,7 @@ selected: true
 pub: "Neural Information Processing Systems (NeurIPS)"
 pub_date: "2025"
 
-cover: /assets/images/covers/MINJA.jpg
+cover: /assets/images/covers/MINJA.png
 
 authors:
   - Shen Dong*
